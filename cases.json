@@ -4543,19 +4543,7 @@
      "media": []
     }
    ],
-   "reviewed": true,
-   "media": [
-    {
-     "type": "video",
-     "name": "485_D075/485_D075_after_1.mov",
-     "role": "after"
-    },
-    {
-     "type": "video",
-     "name": "485_D075/485_D075_before_1.mov",
-     "role": "before"
-    }
-   ]
+   "reviewed": true
   },
   {
    "id": "485_D077",
@@ -4585,19 +4573,7 @@
      "media": []
     }
    ],
-   "reviewed": true,
-   "media": [
-    {
-     "type": "video",
-     "name": "485_D077/485_D077_after_1.mov",
-     "role": "after"
-    },
-    {
-     "type": "video",
-     "name": "485_D077/485_D077_before_1.mov",
-     "role": "before"
-    }
-   ]
+   "reviewed": true
   },
   {
    "id": "485_D089",
