@@ -1,5 +1,5 @@
 {
- "assetBase": "https://raw.githubusercontent.com/metavet78-blip/sb-review-assets/main/assets/",
+ "assetBase": "https://cdn.jsdelivr.net/gh/metavet78-blip/sb-review-assets@main/assets/",
  "dims": {
   "animal": {
    "label": "동물별",
